@@ -5,6 +5,8 @@ A recreation of the classic 1960s ELIZA therapy chatbot using Python Flask.
 ## Live Demo
 [Try it here!](https://eliza-chatbot-qymc.onrender.com)
 
+![alt text](https://github.com/p-H-7/eliza-chatbot/blob/main/templates/chatbot_screenshot.png?raw=true)
+
 ## What is ELIZA?
 ELIZA was one of the first chatbots, created at MIT in 1964. It simulates a therapist by asking questions and reflecting your statements back to you.
 
